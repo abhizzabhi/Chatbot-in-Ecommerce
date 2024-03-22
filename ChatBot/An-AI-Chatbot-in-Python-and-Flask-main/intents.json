@@ -1,0 +1,146 @@
+
+{
+"intents": [
+{
+"tag": "greeting",
+"patterns": [
+"Hi",
+"Is anyone there?",
+"Hello",
+"Good day",
+"What's up",
+"Hey",
+"What's happening",
+"What's going on"
+],
+"responses": [
+"Hello!",
+"Good to see you again!",
+"Hi there, how can I help?"
+],
+"context_set": ""
+},
+{
+"tag": "goodbye",
+"patterns": [
+"Goodbye",
+"Bye",
+"See you later",
+"See you soon",
+"Take care",
+"Have a great day",
+"Until next time",
+"Farewell",
+"Bye bye",
+"Catch you later"
+],
+"responses": [
+"Sad to see you go :(",
+"Goodbye!",
+"Come back soon",
+"have a nice day"
+],
+"context_set": ""
+},
+{
+"tag": "purchase",
+"patterns": [
+ "how to purchase",
+"goto men store",
+"How can I buy this product?",
+"Where can I purchase this item?",
+"How do I place an order?",
+"Can you guide me through the purchase process?",
+"I want to buy this item"
+],
+"responses": [
+ "select the product, and add to cart.after that proceed to checkout",
+" http://127.0.0.1:5050/shop/men ",
+"To purchase this product, please visit our online store. You can place an order directly from there.",
+"you can purchase from our store"
+],
+"context_set": ""
+},
+{
+"tag": "shipping",
+"patterns": [
+"What are the shipping options?",
+"How long does shipping take?",
+"Do you offer international shipping?",
+"Tell me about the shipping process",
+"Shipping details"
+],
+"responses": [
+"We offer various shipping options to choose from. The shipping time depends on your location and the chosen shipping method. We also provide international shipping to select countries."
+],
+"context_set": ""
+},
+{
+"tag": "payment",
+"patterns": [
+"What payment methods do you accept?",
+"How can I pay for my order?",
+"Payment options",
+"Do you accept credit cards?",
+"Can I pay with PayPal?"
+],
+"responses": [
+"We accept multiple payment methods, including credit cards, PayPal, and more. During the checkout process, you can choose the payment method that suits you best."
+],
+"context_set": ""
+},
+{
+"tag": "order_status",
+"patterns": [
+"How can I check the status of my order?",
+"Where can I track my order?",
+"Order tracking",
+"Can you provide order status?",
+"Check my order"
+],
+"responses": [
+"To check the status of your order, please visit the order tracking page on our website."
+],
+"context_set": ""
+},
+{
+"tag": "mens_info",
+"patterns": [
+"Tell me about men's shirts",
+"What are the features of men's shirts?",
+"Shirt details",
+"Can you provide information about shirts for men?"
+],
+"responses": [
+"Our men's shirts are made from high-quality fabrics and come in various styles, colors, and sizes. They are designed for comfort and durability, suitable for both casual and formal occasions. "
+],
+"context_set": ""
+},
+{
+"tag": "womens_info",
+"patterns": [
+"Tell me about women's dresses",
+"What are the features of women's dresses?",
+"Dress details",
+"Can you provide information about dresses for women?"
+],
+"responses": [
+"Our women's dresses are designed to fit and flatter. They come in a range of styles, colors, and sizes to suit different preferences. Whether you're looking for casual dresses or elegant gowns, we have options for every occasion. "
+],
+"context_set": ""
+},
+{
+"tag": "kids_info",
+"patterns": [
+ "Tell me about kids' shirts",
+"What are the features of kids' shirts?",
+"Shirt details",
+"Can you provide information about shirts for kids?"
+],
+"responses": [
+"Our kids' shirts are made with care and attention to detail. They are crafted from soft and durable fabrics, ensuring comfort for your little ones. We offer a variety of styles, colors, and sizes for kids of different ages."
+],
+"context_set": ""
+}
+]
+}

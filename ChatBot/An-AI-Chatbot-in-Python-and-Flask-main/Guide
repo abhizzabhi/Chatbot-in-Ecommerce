@@ -1,0 +1,61 @@
+Note:
+Dont use ", while copy and pasting a sentences
+
+test sentences:
+1. greeting:
+       "Hi",
+        "How are you?",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "What's up",
+        "how are ya",
+        "heyy",
+        "whatsup",
+
+ 2. goodbye:
+        "cya",
+        "see you",
+        "bye bye",
+        "See you later",
+        "Goodbye",
+        "I am Leaving",
+        "Bye",
+        "Have a Good day",
+        "talk to you later",
+        "ttyl",
+        "i got to go",
+        "gtg"
+
+  3.purchase:
+       "How can I buy this product?",
+        "Where can I purchase this product?"
+
+ 4. shipping:
+        "What are the shipping options?",
+        "How long does shipping take?",
+
+ 5. payment:
+         "What payment methods do you accept?",
+        "How can I pay for my order?",
+        "Payment options"
+
+ 6. order_status:
+         "How can I check the status of my order?",
+        "Where can I track my order?",
+        "Order tracking",
+ 7. mens:
+         "Tell me about mens shirt shirts",
+        "What are the features of mens shirts?",
+        "Shirt details",
+        "Can you provide information about shirts?"
+ 8. womens:
+        "Tell me about women's dress ?",
+         "What are the features of women's dress?",
+         "Women's dress details",
+         "Can you provide information about women's dress?"
+ 9. Kids:
+          "Tell me about kids' shirts",
+        "What are the features of kids' shirts?",
+        "Kids' shirt details",
+        "Can you provide information about kids' shirts?"

@@ -1,0 +1,26 @@
+to run a project
+
+1. Run app.py in F:\ChatBot\An-AI-Chatbot-in-Python-and-Flask-main (dont click the link )
+
+2. Run app_v2.py in F:\INDUS-An-AI-E-Commerce-Web-Innovation-master\Ecommerce v1.0 (click the link)
+
+in the web site ask anythink is when you click the ask any think it opens your chatbot then test your test chat bot by giving a text . text is in 
+guide.txt in F:\ChatBot\An-AI-Chatbot-in-Python-and-Flask-main
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Chatot:
+frame work is Flask
+we trained a chatbot using intents.json file which contain all the patterns responses and tags for chatbot
+chatbot was created using NLTK (Natural Language Tool Kit)
+Preprocess: Stemmin,Tokenizing, removing stopwords,Pos tagging
+          
+
+
+Website:
+framework is Flask
+frontend html,css
+database MySQL
+backend Python
+
+internet is there ?
+
